@@ -1,5 +1,5 @@
 //=============『 Utama 』================== //
-global.owner = ['79832950355'] 
+global.owner = ['6288212514602'] 
 global.mods = [] 
 global.prems = [] 
 
@@ -13,7 +13,7 @@ global.pulsa = '085890531178'
 global.gopay = '085770736388'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'HAMZZBOT'
+global.namebot = 'azwanmdBOT'
 global.gc = 'https://chat.whatsapp.com/L5X4iarh2CyBrFTMYxfD3o'
 global.web = 'https://youtube.com/c/HamzXPRESET' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ganti ja
 global.fotonya2 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'HAMZZBOT'
+global.wm = 'AZWANBOT'
 global.watermark = wm
-global.wm2 = '                     「HAMZZBOT⁩ 」'
-global.wm3 = 'BY HAMZZ⛧'
+global.wm2 = '                     「WANBOT⁩ 」'
+global.wm3 = 'BY AZWAN⛧'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg'
