@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6287898307350'] 
+global.owner = ['79832950355'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Gempy⛧⁩⁩'
-global.numberowner = '6287898307350'
-global.instagram = 'https://www.instagram.com/gmpyyy'
-global.github = 'https://github.com/gmpyyy'
-global.dana = '087898307350'
-global.pulsa = '087898307350'
-global.gopay = '-'
+global.nameowner = 'Hamz⛧⁩⁩'
+global.numberowner = '79832950355'
+global.instagram = 'https://www.instagram.com/_syidaa1'
+global.github = 'https://github.com/hmzzfz'
+global.dana = '085890531178'
+global.pulsa = '085890531178'
+global.gopay = '085770736388'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'PENTABOT'
-global.gc = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
-global.web = 'https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'HAMZZBOT'
+global.gc = 'https://chat.whatsapp.com/L5X4iarh2CyBrFTMYxfD3o'
+global.web = 'https://youtube.com/c/HamzXPRESET' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ganti ja
 global.fotonya2 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'PENTABOT'
+global.wm = 'HAMZZBOT'
 global.watermark = wm
 global.wm2 = '                     「PENTABOT⁩ 」'
-global.wm3 = 'Gempy⛧'
+global.wm3 = 'BY HAMZZ⛧'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg'
@@ -36,8 +36,8 @@ global.eror = 'ERROR'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'Created by'
-global.author = 'Gempy⛧⁩⁩'
+global.packname = 'Created by Hamzz'
+global.author = 'HamzX⛧⁩⁩'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
