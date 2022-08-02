@@ -4,8 +4,8 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Hamz⛧⁩⁩'
-global.numberowner = '79832950355'
+global.nameowner = 'asu⛧⁩⁩'
+global.numberowner = '6288212514602'
 global.instagram = 'https://www.instagram.com/_syidaa1'
 global.github = 'https://github.com/hmzzfz'
 global.dana = '085890531178'
@@ -13,7 +13,7 @@ global.pulsa = '085890531178'
 global.gopay = '085770736388'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'azwanmdBOT'
+global.namebot = 'dikamdBOT'
 global.gc = 'https://chat.whatsapp.com/L5X4iarh2CyBrFTMYxfD3o'
 global.web = 'https://youtube.com/c/HamzXPRESET' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -25,8 +25,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'AZWANBOT'
 global.watermark = wm
-global.wm2 = '                     「WANBOT⁩ 」'
-global.wm3 = 'BY AZWAN⛧'
+global.wm2 = '                     「DIKaBOT⁩ 」'
+global.wm3 = 'BY Dika⛧'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg'
